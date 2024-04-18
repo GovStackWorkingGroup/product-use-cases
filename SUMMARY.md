@@ -16,4 +16,5 @@
   * [INF-1 - Construction Permit](use-cases/inf-1-construction-permit.md)
   * [INST-1 - Unconditional Social Cash Transfer](use-cases/inst-1-unconditional-social-cash-transfer.md)
   * [INST-2 - Anticipatory Cash Transfers](use-cases/inst-2-anticipatory-cash-transfers.md)
+  * [INST-3 - Citizen Engagement](use-cases/inst-3-citizen-engagement.md)
   * [\<Use Case Template>](use-cases/less-than-use-case-template-greater-than.md)
