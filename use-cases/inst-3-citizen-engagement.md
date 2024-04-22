@@ -212,6 +212,4 @@ Good data collection on the overall development of engagement rate during a spec
 
 * Lisa Hiemer-Maqoma, Team Lead, GIZ Datacipation Programme with the African Union
 * Husnia Mohamed, Advisor, GIZ Datacipation Programme with the African Union
-* Jon Stever, i4Pollicy
-* Lincoln Njogu, i4Pollicy
 * Wesley Brown, GovStack Product Owner, Digital Impact Alliance
