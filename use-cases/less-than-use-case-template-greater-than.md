@@ -6,7 +6,7 @@ description: Derived from implementation case in Kenya
 
 ## Product Use Case Summary
 
-| ID      | \<Abbev-Sector - Index>                                        |
+| ID      | EGOV-1                                                         |
 | ------- | -------------------------------------------------------------- |
 | Name    | GovBot - AI Chatbot for Discoverability of Government Services |
 | Sector  | Digital Government (eGovernment), Public Service Delivery      |
