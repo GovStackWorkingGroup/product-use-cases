@@ -9,6 +9,7 @@
 * [AGR-2 - Rural Advisory Service for Farmers](use-cases/agr-2-rural-advisory-service-for-farmers.md)
 * [CLMT-1 - Disaster Management](use-cases/clmt-1-disaster-management.md)
 * [EDU-1 - Remote Learning](use-cases/edu-1-remote-learning.md)
+* [EGOV-1 - AI Chatbot for Discoverability of Government Services](use-cases/less-than-use-case-template-greater-than.md)
 * [ENV-1 - Extended Producer Responsibility (EPR)](use-cases/env-1-extended-producer-responsibility-epr.md)
 * [FINC-1 - Business Taxation](use-cases/finc-1-business-taxation.md)
 * [FINC-2 - Inclusive Financial Services for SMEs](use-cases/finc-2-inclusive-financial-services-for-smes.md)
